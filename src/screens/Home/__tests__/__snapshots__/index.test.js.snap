@@ -1,0 +1,2455 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "height": 1334,
+    }
+  }
+  virtual={undefined}
+>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#F8F8F8",
+            "borderBottomColor": "#a7a6ab",
+            "borderBottomWidth": 0.5,
+            "elevation": 3,
+            "flexDirection": "row",
+            "height": 64,
+            "justifyContent": "center",
+            "left": 0,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 15,
+            "right": 0,
+            "shadowColor": undefined,
+            "shadowOffset": undefined,
+            "shadowOpacity": undefined,
+            "shadowRadius": undefined,
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "#fff",
+            "paddingLeft": 5,
+            "paddingRight": 5,
+            "shadowOffset": Object {
+              "height": 0,
+              "width": 0,
+            },
+            "shadowOpacity": 0,
+            "shadowRadius": 0,
+          },
+        ]
+      }
+      virtual={undefined}
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "alignSelf": "center",
+            "flex": 1,
+          }
+        }
+        virtual={undefined}
+      >
+        <View
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          collapsable={undefined}
+          hitSlop={undefined}
+          isTVSelectable={true}
+          nativeID={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "alignSelf": null,
+              "backgroundColor": "transparent",
+              "borderBottomWidth": null,
+              "borderColor": null,
+              "borderLeftWidth": null,
+              "borderRadius": 5,
+              "borderRightWidth": null,
+              "borderTopWidth": null,
+              "elevation": 0,
+              "flexDirection": "row",
+              "height": 45,
+              "justifyContent": "space-between",
+              "marginLeft": -3,
+              "opacity": 1,
+              "paddingBottom": 6,
+              "paddingLeft": 6,
+              "paddingRight": 6,
+              "paddingTop": 6,
+              "shadowColor": null,
+              "shadowOffset": null,
+              "shadowOpacity": null,
+              "shadowRadius": null,
+            }
+          }
+          testID={undefined}
+          tvParallaxProperties={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+          />
+        </View>
+      </View>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "color": "#000",
+              "fontFamily": "System",
+              "fontSize": 17,
+              "fontWeight": "600",
+              "textAlign": "center",
+            },
+            Object {
+              "fontSize": 15,
+              "paddingTop": 20,
+            },
+          ]
+        }
+        virtual={undefined}
+      >
+        2nd Main Road, Stage 2, BTM Layout
+      </Text>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-end",
+            "alignSelf": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "flex-end",
+          }
+        }
+        virtual={undefined}
+      >
+        <View
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          collapsable={undefined}
+          hitSlop={undefined}
+          isTVSelectable={true}
+          nativeID={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "alignSelf": null,
+              "backgroundColor": "transparent",
+              "borderBottomWidth": null,
+              "borderColor": null,
+              "borderLeftWidth": null,
+              "borderRadius": 50,
+              "borderRightWidth": null,
+              "borderTopWidth": null,
+              "elevation": 0,
+              "flexDirection": "row",
+              "height": 45,
+              "justifyContent": "space-between",
+              "marginRight": -8,
+              "opacity": 1,
+              "paddingBottom": 6,
+              "paddingLeft": 10,
+              "paddingRight": 15,
+              "paddingTop": 6,
+              "shadowColor": null,
+              "shadowOffset": null,
+              "shadowOpacity": null,
+              "shadowRadius": null,
+            }
+          }
+          testID={undefined}
+          tvParallaxProperties={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+  <RCTScrollView
+    automaticallyAdjustContentInsets={false}
+    contentInset={
+      Object {
+        "bottom": 0,
+      }
+    }
+    enableAutoAutomaticScroll={true}
+    enableResetScrollToCoords={true}
+    extraHeight={75}
+    extraScrollHeight={0}
+    keyboardDismissMode="interactive"
+    keyboardOpeningTime={250}
+    onScroll={[Function]}
+    resetScrollToCoords={
+      Object {
+        "x": 0,
+        "y": 0,
+      }
+    }
+    scrollEventThrottle={0}
+    showsVerticalScrollIndicator={true}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "flex": 1,
+        },
+        Object {
+          "flexDirection": "column",
+          "paddingBottom": 8,
+          "paddingLeft": 3,
+        },
+      ]
+    }
+    virtual={undefined}
+  >
+    <View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "flexDirection": "row",
+            "height": 50,
+            "justifyContent": "center",
+            "marginHorizontal": -15,
+            "marginTop": 0,
+            "paddingHorizontal": 15,
+            "shadowColor": "#000",
+            "shadowOffset": Object {
+              "height": 2,
+              "width": 0,
+            },
+            "shadowOpacity": 0.1,
+            "shadowRadius": 1.5,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "alignSelf": "stretch",
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "center",
+              "marginTop": 5,
+              "paddingLeft": 8,
+              "paddingRight": 0,
+            }
+          }
+        >
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
+            accessible={true}
+            collapsable={undefined}
+            hitSlop={undefined}
+            isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "alignSelf": "center",
+                "backgroundColor": "#E7F4FF",
+                "borderBottomWidth": 1,
+                "borderColor": "#D9D5DC",
+                "borderLeftWidth": 0,
+                "borderRadius": 4,
+                "borderRightWidth": 0,
+                "borderTopWidth": 0,
+                "flex": 1,
+                "flexDirection": "row",
+                "height": 40,
+                "marginBottom": 4,
+                "marginLeft": 2,
+                "opacity": 1,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+            />
+            <TextInput
+              editable={true}
+              placeholder="Search restaurant, dishes..."
+              placeholderTextColor="#CFCFCF"
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "flex": 1,
+                    "fontSize": 17,
+                    "height": 50,
+                    "lineHeight": 24,
+                    "paddingLeft": 5,
+                    "paddingRight": 5,
+                    "top": 1.5,
+                  },
+                  Object {
+                    "alignSelf": "center",
+                    "color": "#0087FB",
+                  },
+                ]
+              }
+              underlineColorAndroid="rgba(0,0,0,0)"
+              virtual={undefined}
+            />
+          </View>
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
+            accessible={true}
+            collapsable={undefined}
+            hitSlop={undefined}
+            isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "alignSelf": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomWidth": null,
+                "borderColor": "#007aff",
+                "borderLeftWidth": null,
+                "borderRadius": 5,
+                "borderRightWidth": null,
+                "borderTopWidth": null,
+                "elevation": 0,
+                "flexDirection": "row",
+                "height": 45,
+                "justifyContent": "space-between",
+                "opacity": 1,
+                "paddingBottom": 6,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 6,
+                "shadowColor": null,
+                "shadowOffset": null,
+                "shadowOpacity": null,
+                "shadowRadius": null,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Object {
+                  "color": "#007aff",
+                  "fontFamily": "System",
+                  "fontSize": 16.5,
+                  "lineHeight": 19,
+                  "marginLeft": 0,
+                  "marginRight": 0,
+                }
+              }
+              uppercase={false}
+              virtual={undefined}
+            >
+              Filter
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 375,
+            "marginTop": 10,
+            "overflow": "hidden",
+            "position": "relative",
+            "width": 753,
+          }
+        }
+      >
+        <Image
+          source={1}
+          style={
+            Object {
+              "height": 375,
+              "resizeMode": "cover",
+              "width": 750,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "rgba(0,0,0,0.7)",
+              "height": 375,
+              "justifyContent": "center",
+              "position": "absolute",
+              "width": 750,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontSize": 21,
+                  "lineHeight": 22,
+                },
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                },
+              ]
+            }
+            virtual={undefined}
+          >
+            Refer your Friends
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                },
+              ]
+            }
+            uppercase={false}
+            virtual={undefined}
+          >
+            Earn Rs 200 off
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                },
+              ]
+            }
+            uppercase={false}
+            virtual={undefined}
+          >
+            from selected restaurants
+          </Text>
+        </View>
+      </View>
+      <View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "flexDirection": "row",
+              "marginLeft": 7,
+              "marginTop": 12,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <View
+                accessibilityComponentType={undefined}
+                accessibilityLabel={undefined}
+                accessibilityTraits={undefined}
+                accessible={true}
+                collapsable={undefined}
+                hitSlop={undefined}
+                isTVSelectable={true}
+                nativeID={undefined}
+                onLayout={undefined}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+                testID={undefined}
+                tvParallaxProperties={undefined}
+              >
+                <Image
+                  source={1}
+                  style={
+                    Object {
+                      "borderRadius": 5,
+                      "height": 150,
+                      "resizeMode": "cover",
+                      "width": 360,
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "rgba(0,0,0,0.5)",
+                      "borderRadius": 5,
+                      "flexDirection": "column",
+                      "height": 150,
+                      "justifyContent": "center",
+                      "left": 0,
+                      "position": "absolute",
+                      "top": 0,
+                      "width": 360,
+                    }
+                  }
+                >
+                  <Image
+                    small={true}
+                    source={1}
+                    style={
+                      Object {
+                        "borderRadius": 18,
+                        "height": 36,
+                        "width": 36,
+                      }
+                    }
+                    virtual={undefined}
+                  />
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "color": "#000",
+                          "fontFamily": "System",
+                          "fontSize": 16,
+                        },
+                        Object {
+                          "color": "#fff",
+                          "fontSize": 18,
+                        },
+                      ]
+                    }
+                    uppercase={false}
+                    virtual={undefined}
+                  >
+                    Indian Food
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <View
+                accessibilityComponentType={undefined}
+                accessibilityLabel={undefined}
+                accessibilityTraits={undefined}
+                accessible={true}
+                collapsable={undefined}
+                hitSlop={undefined}
+                isTVSelectable={true}
+                nativeID={undefined}
+                onLayout={undefined}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+                testID={undefined}
+                tvParallaxProperties={undefined}
+              >
+                <Image
+                  source={1}
+                  style={
+                    Object {
+                      "borderRadius": 5,
+                      "height": 150,
+                      "resizeMode": "cover",
+                      "width": 360,
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "rgba(0,0,0,0.5)",
+                      "borderRadius": 5,
+                      "flexDirection": "column",
+                      "height": 150,
+                      "justifyContent": "center",
+                      "left": 0,
+                      "position": "absolute",
+                      "top": 0,
+                      "width": 360,
+                    }
+                  }
+                >
+                  <Image
+                    small={true}
+                    source={1}
+                    style={
+                      Object {
+                        "borderRadius": 18,
+                        "height": 36,
+                        "width": 36,
+                      }
+                    }
+                    virtual={undefined}
+                  />
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "color": "#000",
+                          "fontFamily": "System",
+                          "fontSize": 16,
+                        },
+                        Object {
+                          "color": "#fff",
+                          "fontSize": 18,
+                        },
+                      ]
+                    }
+                    uppercase={false}
+                    virtual={undefined}
+                  >
+                    Food Carnival
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <RCTScrollView
+        closeOnRowBeginSwipe={false}
+        closeOnRowPress={true}
+        closeOnScroll={true}
+        dataArray={
+          Array [
+            Object {
+              "name": "RajDhani",
+              "offer1": "20% off on Dinner",
+              "offer2": "Tuesday Lunch @225",
+              "price": "Rs. 600/head",
+              "quisine": "Rajasthani Lunch",
+              "thumbnail": 1,
+              "timing": "12PM to 10PM",
+            },
+            Object {
+              "name": "Kamat Swaad",
+              "offer1": "15% off for Lunch",
+              "offer2": "Unlimited Rotti",
+              "price": "Rs. 200/head",
+              "quisine": "Festive Kannada Food",
+              "thumbnail": 1,
+              "timing": "12PM to 4PM",
+            },
+            Object {
+              "name": "Chhattisgarhi Thali",
+              "offer1": "10% off for Lunch",
+              "offer2": "Unlimited Desserts",
+              "price": "Rs. 250/head",
+              "quisine": "Chhattisgarhi Lunch",
+              "thumbnail": 1,
+              "timing": "1PM to 10PM",
+            },
+            Object {
+              "name": "Kathiawadi Thali",
+              "offer1": "12% off for Lunch",
+              "offer2": "Unlimited Dhokla",
+              "price": "Rs. 300/head",
+              "quisine": "Gujarati dishes",
+              "thumbnail": 1,
+              "timing": "11PM to 11PM",
+            },
+            Object {
+              "name": "AnnaPoorni",
+              "offer1": "16% off for Dinner",
+              "offer2": "Unlimited Rice",
+              "price": "Rs 220/head",
+              "quisine": "Authentic Andhra Food",
+              "thumbnail": 1,
+              "timing": "12PM to 9PM",
+            },
+          ]
+        }
+        dataSource={
+          ListViewDataSource {
+            "items": 5,
+          }
+        }
+        directionalDistanceChangeThreshold={2}
+        disableLeftSwipe={false}
+        disableRightSwipe={false}
+        enableEmptySections={true}
+        leftOpenValue={0}
+        previewFirstRow={false}
+        recalculateHiddenLayout={false}
+        renderRow={[Function]}
+        renderScrollComponent={[Function]}
+        rightOpenValue={0}
+        style={Object {}}
+        swipeToOpenPercent={50}
+        virtual={undefined}
+      >
+        <View>
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
+            accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
+            isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                },
+                undefined,
+              ]
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
+          >
+            <View
+              button={true}
+              noBorder={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "borderBottomWidth": null,
+                    "borderColor": "#c9c9c9",
+                    "flexDirection": "row",
+                    "marginLeft": 15,
+                    "paddingBottom": 13,
+                    "paddingRight": 15,
+                    "paddingTop": 13,
+                  },
+                  Object {
+                    "marginLeft": 5,
+                    "paddingBottom": 0,
+                  },
+                ]
+              }
+              virtual={undefined}
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#fff",
+                    "flexDirection": "row",
+                    "padding": 10,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "width": 80,
+                    }
+                  }
+                >
+                  <Image
+                    source={1}
+                    style={
+                      Object {
+                        "borderRadius": 5,
+                        "height": 80,
+                        "resizeMode": "cover",
+                        "width": 80,
+                      }
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-around",
+                        "marginTop": 5,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                  </View>
+                </View>
+                <View
+                  style={
+                    Object {
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#444",
+                            "fontSize": 16,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      RajDhani
+                    </Text>
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#999",
+                            "fontSize": 10,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      12PM to 10PM
+                    </Text>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Rajasthani Lunch
+                      </Text>
+                    </View>
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        20% off on Dinner
+                      </Text>
+                    </View>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Rs. 600/head
+                      </Text>
+                    </View>
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Tuesday Lunch @225
+                      </Text>
+                    </View>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
+            accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
+            isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                },
+                undefined,
+              ]
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
+          >
+            <View
+              button={true}
+              noBorder={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "borderBottomWidth": null,
+                    "borderColor": "#c9c9c9",
+                    "flexDirection": "row",
+                    "marginLeft": 15,
+                    "paddingBottom": 13,
+                    "paddingRight": 15,
+                    "paddingTop": 13,
+                  },
+                  Object {
+                    "marginLeft": 5,
+                    "paddingBottom": 0,
+                  },
+                ]
+              }
+              virtual={undefined}
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#fff",
+                    "flexDirection": "row",
+                    "padding": 10,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "width": 80,
+                    }
+                  }
+                >
+                  <Image
+                    source={1}
+                    style={
+                      Object {
+                        "borderRadius": 5,
+                        "height": 80,
+                        "resizeMode": "cover",
+                        "width": 80,
+                      }
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-around",
+                        "marginTop": 5,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                  </View>
+                </View>
+                <View
+                  style={
+                    Object {
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#444",
+                            "fontSize": 16,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      Kamat Swaad
+                    </Text>
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#999",
+                            "fontSize": 10,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      12PM to 4PM
+                    </Text>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Festive Kannada Food
+                      </Text>
+                    </View>
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        15% off for Lunch
+                      </Text>
+                    </View>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Rs. 200/head
+                      </Text>
+                    </View>
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Unlimited Rotti
+                      </Text>
+                    </View>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
+            accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
+            isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                },
+                undefined,
+              ]
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
+          >
+            <View
+              button={true}
+              noBorder={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "borderBottomWidth": null,
+                    "borderColor": "#c9c9c9",
+                    "flexDirection": "row",
+                    "marginLeft": 15,
+                    "paddingBottom": 13,
+                    "paddingRight": 15,
+                    "paddingTop": 13,
+                  },
+                  Object {
+                    "marginLeft": 5,
+                    "paddingBottom": 0,
+                  },
+                ]
+              }
+              virtual={undefined}
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#fff",
+                    "flexDirection": "row",
+                    "padding": 10,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "width": 80,
+                    }
+                  }
+                >
+                  <Image
+                    source={1}
+                    style={
+                      Object {
+                        "borderRadius": 5,
+                        "height": 80,
+                        "resizeMode": "cover",
+                        "width": 80,
+                      }
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-around",
+                        "marginTop": 5,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                  </View>
+                </View>
+                <View
+                  style={
+                    Object {
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#444",
+                            "fontSize": 16,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      Chhattisgarhi Thali
+                    </Text>
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#999",
+                            "fontSize": 10,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      1PM to 10PM
+                    </Text>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Chhattisgarhi Lunch
+                      </Text>
+                    </View>
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        10% off for Lunch
+                      </Text>
+                    </View>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Rs. 250/head
+                      </Text>
+                    </View>
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Unlimited Desserts
+                      </Text>
+                    </View>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
+            accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
+            isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                },
+                undefined,
+              ]
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
+          >
+            <View
+              button={true}
+              noBorder={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "borderBottomWidth": null,
+                    "borderColor": "#c9c9c9",
+                    "flexDirection": "row",
+                    "marginLeft": 15,
+                    "paddingBottom": 13,
+                    "paddingRight": 15,
+                    "paddingTop": 13,
+                  },
+                  Object {
+                    "marginLeft": 5,
+                    "paddingBottom": 0,
+                  },
+                ]
+              }
+              virtual={undefined}
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#fff",
+                    "flexDirection": "row",
+                    "padding": 10,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "width": 80,
+                    }
+                  }
+                >
+                  <Image
+                    source={1}
+                    style={
+                      Object {
+                        "borderRadius": 5,
+                        "height": 80,
+                        "resizeMode": "cover",
+                        "width": 80,
+                      }
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-around",
+                        "marginTop": 5,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                  </View>
+                </View>
+                <View
+                  style={
+                    Object {
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#444",
+                            "fontSize": 16,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      Kathiawadi Thali
+                    </Text>
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#999",
+                            "fontSize": 10,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      11PM to 11PM
+                    </Text>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Gujarati dishes
+                      </Text>
+                    </View>
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        12% off for Lunch
+                      </Text>
+                    </View>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Rs. 300/head
+                      </Text>
+                    </View>
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Unlimited Dhokla
+                      </Text>
+                    </View>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
+            accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
+            isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                },
+                undefined,
+              ]
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
+          >
+            <View
+              button={true}
+              noBorder={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "borderBottomWidth": null,
+                    "borderColor": "#c9c9c9",
+                    "flexDirection": "row",
+                    "marginLeft": 15,
+                    "paddingBottom": 13,
+                    "paddingRight": 15,
+                    "paddingTop": 13,
+                  },
+                  Object {
+                    "marginLeft": 5,
+                    "paddingBottom": 0,
+                  },
+                ]
+              }
+              virtual={undefined}
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#fff",
+                    "flexDirection": "row",
+                    "padding": 10,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "width": 80,
+                    }
+                  }
+                >
+                  <Image
+                    source={1}
+                    style={
+                      Object {
+                        "borderRadius": 5,
+                        "height": 80,
+                        "resizeMode": "cover",
+                        "width": 80,
+                      }
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-around",
+                        "marginTop": 5,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    />
+                  </View>
+                </View>
+                <View
+                  style={
+                    Object {
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#444",
+                            "fontSize": 16,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      AnnaPoorni
+                    </Text>
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "alignSelf": "center",
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#999",
+                            "fontSize": 10,
+                            "fontWeight": "bold",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                      virtual={undefined}
+                    >
+                      12PM to 9PM
+                    </Text>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Authentic Andhra Food
+                      </Text>
+                    </View>
+                    <View
+                      style={
+                        Object {
+                          "paddingTop": 5,
+                        }
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        16% off for Dinner
+                      </Text>
+                    </View>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "width": 625,
+                      }
+                    }
+                  >
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Rs 220/head
+                      </Text>
+                    </View>
+                    <View>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "alignSelf": "center",
+                              "color": "#000",
+                              "fontFamily": "System",
+                              "fontSize": 16,
+                            },
+                            Object {
+                              "color": "#999",
+                              "fontSize": 12,
+                            },
+                          ]
+                        }
+                        uppercase={false}
+                        virtual={undefined}
+                      >
+                        Unlimited Rice
+                      </Text>
+                    </View>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </RCTScrollView>
+    </View>
+  </RCTScrollView>
+</View>
+`;

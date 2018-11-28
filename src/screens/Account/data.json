@@ -1,0 +1,21 @@
+[
+  {
+    "icon": "home",
+    "text": "Manage Addresses",
+    "destination": "Address"
+  },
+  // {
+  //   "icon": "card",
+  //   "text": "Payments"
+  // },
+  {
+    "icon": "pricetag",
+    "text": "Offers",
+    "destination": "Coupons"
+  },
+  {
+    "icon": "help-circle",
+    "text": "Help",
+    "destination": "About"
+  }
+]
